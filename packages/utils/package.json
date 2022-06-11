@@ -1,6 +1,6 @@
 {
   "name": "@ddg-lerna-demo/utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "lynnelyin <1440353878@qq.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ddg-lerna-demo/log": "^0.0.0",
+    "@ddg-lerna-demo/log": "^0.0.1",
     "chalk": "^5.0.1",
     "semver": "^7.3.7"
   }
