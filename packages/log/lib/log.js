@@ -2,6 +2,7 @@
 
 module.exports = log;
 
-function log() {
-    // TODO
+function log(a, b) {
+    console.log('a & b:', a, b);
+    return a + b;
 }
